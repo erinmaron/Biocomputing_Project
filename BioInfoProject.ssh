@@ -1,0 +1,7 @@
+#Combine all refrence sequences for hsp70 and mcrA genes into one refrence file
+
+for files in folder 
+do 
+cat mcrA_*.fasta > mcrA_Genes.fasta 
+ 
+
